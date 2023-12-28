@@ -2,7 +2,7 @@
 
 [English](./README.md) | [日本語](./README-ja.md)
 
-<p align="center">
+<p align="dorromom">
   <img src="./assets/demo_07.gif" width=90%>
   <img src="./assets/demo_09.gif" width=90%>
 </p>
